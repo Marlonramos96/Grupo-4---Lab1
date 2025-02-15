@@ -1,7 +1,7 @@
 # Grupo_4-Lab1
 Ejercicios de Bases de Datos
 
-Divicion del trabajo:
+## Divicion del trabajo:
 
 Ejercicio 1 y 2: Vilma Yaquelin Hernández Argueta **u20230517**
 Ejercicio 3 y 4: Adonay Alfredo Hernández Granados **u20230241**
